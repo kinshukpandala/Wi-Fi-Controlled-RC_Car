@@ -20,8 +20,8 @@ The project demonstrates the integration of hardware and software to create a si
 - **Raadhesh Bajoria** and **Manthan Sontakke** for their collaboration and support.
 
 For more details, please visit the project links below:
-- [Project Demo Video](https://lnkd.in/dVz-44jE)
-- [Documentation and Resources](https://lnkd.in/dnXK2QJr)
+- [Source Code](https://lnkd.in/dVz-44jE)
+- [Project Demo Video,Documentation and Resources](https://lnkd.in/dnXK2QJr)
 
 ---
 
