@@ -21,7 +21,7 @@ The project demonstrates the integration of hardware and software to create a si
 
 For more details, please visit the project links below:
 - [Source Code](https://lnkd.in/dVz-44jE)
-- [Project Demo Video,Documentation and Resources](https://lnkd.in/dnXK2QJr)
+- [Project Demo Video and Documentation](https://lnkd.in/dnXK2QJr)
 
 ---
 
