@@ -20,7 +20,7 @@ The project demonstrates the integration of hardware and software to create a si
 - **Raadhesh Bajoria** and **Manthan Sontakke** for their collaboration and support.
 
 For more details, please visit the project links below:
-- [Source Code](https://lnkd.in/dVz-44jE)
+- [Source Code](https://github.com/kinshukpandala/Wi-Fi-Controlled-RC_Car/blob/main/WiFi_Controlled_ESP8266_Based_RC_Car/WiFi_Controlled_ESP8266_Based_RC_Car.ino)
 - [Project Demo Video and Documentation](https://lnkd.in/dnXK2QJr)
 
 ---
